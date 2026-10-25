@@ -47,3 +47,5 @@ Most content lives in `index.html`.
 - Bifröst EdTech — Editor → Head Editor, Sep 2022–Mar 2023
 
 The portfolio intentionally does not include a downloadable resume.
+
+available : https://anshita6021.github.io/
